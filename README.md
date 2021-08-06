@@ -1,6 +1,7 @@
 ## lvgl 7.9官方测试程序，移植到open-smartwatch，在项目完成前不会删除
-![GitHub repo size](https://img.shields.io/github/repo-size/1452206376/open-smartwatch-lvgl-test)
+![Lines of code](https://img.shields.io/tokei/lines/github/1452206376/open-smartwatch-lvgl-test)
 ![GitHub](https://img.shields.io/github/license/1452206376/open-smartwatch-lvgl-test)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/1452206376/open-smartwatch-lvgl-test)
 # 使用方法：
 `git clone https://github.com/1452206376/open-smartwatch-lvgl-test.git`   
 把libraries文件夹拖到 `C:\Users\用户名\文档\Arduino\`  
