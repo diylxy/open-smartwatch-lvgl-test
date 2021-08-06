@@ -1,4 +1,4 @@
-## lvgl 7.9官方测试程序，移植到open-smartwatch，在项目完成前不会删除
+## lvgl 7.9官方测试程序，移植到open-smartwatch，一直保留直到项目完成
 ![Lines of code](https://img.shields.io/tokei/lines/github/1452206376/open-smartwatch-lvgl-test)
 ![GitHub](https://img.shields.io/github/license/1452206376/open-smartwatch-lvgl-test)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/1452206376/open-smartwatch-lvgl-test)
