@@ -1,4 +1,4 @@
-## lvgl 7.10官方测试程序，移植到open-smartwatch，在项目完成前不会删除
+## lvgl 7.9官方测试程序，移植到open-smartwatch，在项目完成前不会删除
 # 使用方法：
 
 `git clone https://github.com/1452206376/open-smartwatch-lvgl-test.git`
